@@ -10,27 +10,26 @@
 </p>
 ### 🎲 Objetivo
 
-<p align="center">Resolver um  desafio simples para testar minhas habilidades na construção de APIS.</p>
+Resolver um  desafio simples para testar minhas habilidades na construção de APIS.
 
 ### 🚀 Instruções  🚧
-<h2 align="center">Instruções</h2>
+<h2>Instruções</h2>
 Para melhor entendimento vou explicar um pouco sobre os get,post,put e delete e outros métodos...
-<h2 align="center">Camadas</h2>
-<h3 align="center">Model/Entity:</h3>
+<h2>Camadas</h2>
+<h3>Model/Entity:</h3>
 Responsavel por abstrair o objeto e a instanciação de cada objeto que vamos trabahar na nossa API,
 vai receber e mandar dados para o cliente.
-<h3 align="center">Repository:</h3>
+<h3>Repository:</h3>
 É onde é feita toda a manipulação que será feita na base de banco de dados, aonde se comunica com o banco.
-<h3 align="center">Controller:</h3>
+<h3>Controller:</h3>
 Fica responsável por administrar todos os nossos URL x dispara o metodo y aqui que vai devolver as 
 respostas para o cliente.(testado pelo postiman).
-<h3 align="center">Service:</h3>
+<h3>Service:</h3>
 Aqui fica todas as nossas regras de negócio que nesse caso não foi necessário.
-
-Get: Metódo para recuperar dados de uma API.
-Post: Enviar novos dados para a API.
-Patch/Put:Atualiza dados existentes.
-Delete:Remove dados existentes.
+<p align="center">Get: Metódo para recuperar dados de uma API.</p>
+<p align="center">Post: Enviar novos dados para a API.</p>
+<p align="center">Patch/Put:Atualiza dados existentes.</p>
+<p align="center">Delete:Remove dados existentes.</p>
  
 findAll:Busca e retorna tudo.
 findById:Retorna o objeto daquele id.
