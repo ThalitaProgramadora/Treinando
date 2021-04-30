@@ -8,7 +8,7 @@
  <a href="#Features">Features</a> • 
  <a href="#Autor">Autor</a>
 </p>
-<h2 align="center">### 🎲 Objetivo</h2>
+<h2>### 🎲 Objetivo</h2>
 
 Resolver um  desafio simples para testar minhas habilidades na construção de APIS.
 
