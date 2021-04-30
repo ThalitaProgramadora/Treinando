@@ -4,9 +4,9 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#Instruções">Instruções</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="# Features">Features</a> • 
- <a href="#autor">Autor</a>
+ <a href="#Tecnologias">Tecnologias</a> •
+ <a href="#Features">Features</a> • 
+ <a href="#Autor">Autor</a>
 </p>
 ### 🎲 Objetivo
 
@@ -14,19 +14,19 @@
 
 ### 🚀 Instruções  🚧
 <h2 align="center">Instruções</h2>
-<p align="center">Para melhor entendimento vou explicar um pouco sobre os get,post,put e delete e outros métodos..</p>
+Para melhor entendimento vou explicar um pouco sobre os get,post,put e delete e outros métodos...
 <h2 align="center">Camadas</h2>
 <h3 align="center">Model/Entity:</h3>
-<p align="center">Responsavel por abstrair o objeto e a instanciação de cada objeto que vamos trabahar na nossa API,
-vai receber e mandar dados para o cliente.</p>
+Responsavel por abstrair o objeto e a instanciação de cada objeto que vamos trabahar na nossa API,
+vai receber e mandar dados para o cliente.
 <h3 align="center">Repository:</h3>
-<p align="center">É onde é feita toda a manipulação que será feita na base de banco de dados, aonde se comunica com o banco.</p>
+É onde é feita toda a manipulação que será feita na base de banco de dados, aonde se comunica com o banco.
 <h3 align="center">Controller:</h3>
-<p align="center">Fica responsável por administrar todos os nossos URL x dispara o metodo y aqui que vai devolver as 
-respostas para o cliente.(testado pelo postiman).</p>
+Fica responsável por administrar todos os nossos URL x dispara o metodo y aqui que vai devolver as 
+respostas para o cliente.(testado pelo postiman).
 <h3 align="center">Service:</h3>
-<p align="center">Aqui fica todas as nossas regras de negócio que nesse caso não foi necessário.</p>
-<p align="center">
+Aqui fica todas as nossas regras de negócio que nesse caso não foi necessário.
+
 Get: Metódo para recuperar dados de uma API.
 Post: Enviar novos dados para a API.
 Patch/Put:Atualiza dados existentes.
@@ -39,7 +39,7 @@ findAllByNameContainingIgnoreCase:Retorna o name que eu pesquisar ignorando maiu
 O metodo calcular serve para calcular o total de pontos de cada pessoal cadastrada.
 O metodo mostrarAdicionar serve para tanto adicionar um novo item de score numa lista
 para depois serem ordenados e mostrarem os 10 maiores scores junto com o nome da pessoa.
-</p>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -57,3 +57,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Obter um cliente especifico
 - [x] Listar clientes
 
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por Thalita Oliveira Silva 👋🏽 Entre em contato!
+
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
