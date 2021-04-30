@@ -26,15 +26,21 @@ Fica responsável por administrar todos os nossos URL x dispara o metodo y aqui 
 respostas para o cliente.(testado pelo postiman).
 <h3>Service:</h3>
 Aqui fica todas as nossas regras de negócio que nesse caso não foi necessário.
-<p align="center">Get: Metódo para recuperar dados de uma API.</p>
-<p align="center">Post: Enviar novos dados para a API.</p>
-<p align="center">Patch/Put:Atualiza dados existentes.</p>
-<p align="center">Delete:Remove dados existentes.</p>
- 
-findAll:Busca e retorna tudo.
-findById:Retorna o objeto daquele id.
-findAllByNameContainingIgnoreCase:Retorna o name que eu pesquisar ignorando maiusculo e minusculo.
-
+<h3 align="center">Get:</h3>
+<p align="center">Metódo para recuperar dados de uma API.</p>
+<h3 align="center">Post:</h3>
+<p align="center">Enviar novos dados para a API.</p>
+<h3 align="center">Patch/Put:</h3>
+<p align="center">Atualiza dados existentes.</p>
+<h3 align="center">Delete:</h3>
+<p align="center">Remove dados existentes.</p>
+<h3 align="center">findAll:</h3>
+<p align="center">Busca e retorna tudo.</p>
+<h3 align="center">findById:</h3>
+<p align="center">Retorna o objeto daquele id.</p>
+<h3 align="center">findAllByNameContainingIgnoreCase:</h3>
+<p align="center">Retorna o name que eu pesquisar ignorando maiusculo e minusculo.</p>
+<br>
 O metodo calcular serve para calcular o total de pontos de cada pessoal cadastrada.
 O metodo mostrarAdicionar serve para tanto adicionar um novo item de score numa lista
 para depois serem ordenados e mostrarem os 10 maiores scores junto com o nome da pessoa.
