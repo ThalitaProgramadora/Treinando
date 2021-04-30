@@ -52,7 +52,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Features
 
-- [x] Cadastro de usuário
 - [x] Criar um cliente
 - [x] Editar um cliente
 - [x] Obter um cliente especifico
