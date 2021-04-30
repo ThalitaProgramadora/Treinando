@@ -61,7 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/ThalitaProgramadora">
- <img style="border-radius: 50%;" <img src="https://imgur.com/wVGcp53" title="source: imgur.com" /></a> width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/wVGcp53.jpg" width="100px;" alt=""/>
  <br />
  <sub><b>Thalita Oliveira Silva</b></sub></a> <a href="https://github.com/ThalitaProgramadora" title="github">🚀</a>
 
