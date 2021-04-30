@@ -13,7 +13,7 @@
 Resolver um  desafio simples para testar minhas habilidades na construção de APIS.
 
 ### 🚀 Instruções  🚧
-<h2>Instruções</h2>
+<h2>Como foi feito:</h2>
 Para melhor entendimento vou explicar um pouco sobre os get,post,put e delete e outros métodos...
 <h2>Camadas</h2>
 <h3>Model/Entity:</h3>
