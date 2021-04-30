@@ -61,12 +61,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/ThalitaProgramadora">
- <img style="border-radius: 50%;" src=<a href="https://imgur.com/wVGcp53"><img src="https://i.imgur.com/wVGcp53.jpg" title="source: imgur.com" /></a> width="100px;" alt=""/>
+ <img style="border-radius: 50%;" <img src="https://imgur.com/wVGcp53" title="source: imgur.com" /></a> width="100px;" alt=""/>
  <br />
  <sub><b>Thalita Oliveira Silva</b></sub></a> <a href="https://github.com/ThalitaProgramadora" title="github">🚀</a>
 
 
 Feito com ❤️ por Thalita Oliveira Silva 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thalitaoliveirasilva2649/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Thalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitaoliveirasilva2649/)](https://www.linkedin.com/in/thalitaoliveirasilva2649/) 
+[![Gmail Badge](https://img.shields.io/badge/-thalita.programadora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalita.programadora@gmail.com)](mailto:thalita.programadora@gmail.com)
