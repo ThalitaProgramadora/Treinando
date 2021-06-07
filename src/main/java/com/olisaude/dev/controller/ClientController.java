@@ -60,7 +60,8 @@ public class ClientController {
 			int sd = 0;
 			if(healthProblems.getDegreeProblem() != 0){
 				sd = sd + healthProblems.getDegreeProblem();
-				}	
+				}
+			//na parte do e^ fica Math.exp(x) é o certo e não Math.E
 			healthProblems.setScore((1/(1+Math.E -(-2.8+sd)))*100);
 			return healthProblems.getScore();
 			}
